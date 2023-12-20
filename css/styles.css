@@ -37,13 +37,10 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.web-one-studio {
-    color: #2e2f42;
-}
-.web-one-studio:hover {
+.web-one:hover {
     color: #404bbf;
 }
-.web-one-studio:focus {
+.web-one:focus {
     color: #404bbf;
 }
 .web-one {
@@ -56,10 +53,10 @@ body {
     font-style: normal;
     color: #404bbf;
 }
-.header-contact:hover {
+.header-contact-itam:hover {
     background-color: #404BBF;
 }
-.header-contact:focus {
+.header-contact-itam:focus {
     background-color: #404BBF
 }
 .header-contact {
