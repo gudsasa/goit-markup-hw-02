@@ -54,10 +54,10 @@ body {
     color: #404bbf;
 }
 .header-contact:hover {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 .header-contact:focus {
-    background-color: #404BBF
+    color: #404BBF
 }
 .header-contact {
     color: var(--SLATE, #434455);
