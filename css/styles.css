@@ -4,6 +4,9 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+.header-one {
+    color: #2e2f42;
+}
 .header-nav {
     font-family: "Raleway", sans-serif;
     line-height: 1.17;
@@ -74,6 +77,9 @@ body {
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
+        background-color: #4D5AE5;
+        font-family: "Roboto", sans-serif;
+        cursor: pointer;
 }
 .main-section-button:hover {
     background-color: #404BBF;
