@@ -44,6 +44,12 @@ body {
     font-style: normal;
     color: #404bbf;
 }
+.header-contact:hover {
+    background-color: #404BBF;
+}
+.header-contact:focus {
+    background-color: #404BBF
+}
 .header-contact {
     color: var(--SLATE, #434455);
         font-size: 16px;
@@ -73,12 +79,6 @@ body {
         background-color: #4D5AE5;
         position: absolute;
 }
-.main-section-button:hover {
-    background-color: #404BBF;
-}
-.main-section-button:focus {
-    background-color: #404BBF
-}
 .main-itam-two {
     color: var(--NAVY-BLUE, #2E2F42);
         font-size: 20px;
@@ -104,6 +104,9 @@ body {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.main-section-three-item {
+    background-color: #FFFFFF
 }
 .main-section-three-list {
     background-color: #F4F4FD;
