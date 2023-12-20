@@ -3,22 +3,16 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-
-a {
-        text-decoration: none;
-    }
-.header-one {
-    font-family: "Raleway", sans-serif
-}
 }
 .header-web-blu {
     color: var(--IRIS, #4D5AE5);
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+        font-family: "Raleway", sans-serif;
 }
 .header-nav-web {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -35,6 +29,12 @@ a {
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+.web-one {
+    color: #404bbf;
+}
+.contact-address {
+    font-style: normal;
 }
 .header-contact {
     color: var(--SLATE, #434455);
@@ -79,10 +79,6 @@ a {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.main-section-three: {
-    background-color: #F4F4FD;
-    background-color: #FFFFFF;
-}
 .main-section-three-our {
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
@@ -91,6 +87,10 @@ a {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.main-section-three-list {
+    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 .main-itam-three {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -130,6 +130,10 @@ a {
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+.footer-one {
+    font-family: "Raleway", sans-serif;
+    line-height: 1.17;
 }
 .footer-web {
     color: var(--CLOUD, #F4F4FD);
