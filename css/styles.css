@@ -53,10 +53,10 @@ body {
     font-style: normal;
     color: #404bbf;
 }
-.header-contact-itam:hover {
+.header-contact:hover {
     background-color: #404BBF;
 }
-.header-contact-itam:focus {
+.header-contact:focus {
     background-color: #404BBF
 }
 .header-contact {
