@@ -44,10 +44,10 @@ body {
     font-style: normal;
     color: #404bbf;
 }
-.header-itam:hover {
+.header-contact:hover {
     background-color: #404BBF;
 }
-.header-itam:focus {
+.header-contact:focus {
     background-color: #404BBF
 }
 .header-contact {
@@ -74,10 +74,6 @@ body {
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        cursor: pointer;
-        font-family: "Roboto", sans-serif;
-        background-color: #4D5AE5;
-        position: absolute;
 }
 .main-section-button:hover {
     background-color: #404BBF;
