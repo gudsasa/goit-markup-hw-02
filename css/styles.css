@@ -44,10 +44,10 @@ body {
     font-style: normal;
     color: #404bbf;
 }
-.header-contact:hover {
+.header-itam:hover {
     background-color: #404BBF;
 }
-.header-contact:focus {
+.header-itam:focus {
     background-color: #404BBF
 }
 .header-contact {
