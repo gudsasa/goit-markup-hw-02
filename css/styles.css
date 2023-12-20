@@ -53,7 +53,7 @@ body {
 .header-contact:focus {
     background-color: #404BBF
 }
-.header-itam {
+.header-contact {
     color: var(--SLATE, #434455);
         font-size: 16px;
         font-weight: 400;
