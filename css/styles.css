@@ -4,12 +4,16 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+.header-nav {
+    font-family: "Raleway", sans-serif;
+    line-height: 1.17;
+}
 .header-web-blu {
     color: var(--IRIS, #4D5AE5);
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.17;
+        line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         font-family: "Raleway", sans-serif;
@@ -61,9 +65,11 @@ body {
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
-        background-color: #4D5AE5;
         font-family: "Roboto", sans-serif;
         background-color: #404BBF;
+}
+.section-button {
+    background-color: #4D5AE5;
 }
 .main-itam-two {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -79,6 +85,9 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
+.main-section-three {
+    background-color: #F4F4FD;
+}
 .main-section-three-our {
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
@@ -90,6 +99,8 @@ body {
 }
 .main-section-three-list {
     background-color: #F4F4FD;
+}
+.main-section-three-itam {
     background-color: #FFFFFF;
 }
 .main-itam-three {
