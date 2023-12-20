@@ -37,6 +37,15 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
+.web-one-studio {
+    color: #2e2f42;
+}
+.web-one-studio:hover {
+    color: #404bbf;
+}
+.web-one-studio:focus {
+    color: #404bbf;
+}
 .web-one {
     color: #2e2f42;
 }
